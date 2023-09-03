@@ -20,7 +20,7 @@
 
 
 
-<picture>
+<picture align="left">
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
 
