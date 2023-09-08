@@ -15,13 +15,13 @@
   </samp>
 </p>
 </h4>
-<img  width="415" align="left" src="https://lanyard.cnrad.dev/api/762484891945664542">
+<img  width="400" align="left" src="https://lanyard.cnrad.dev/api/762484891945664542">
 
 
 
 
 <picture align="left">
-  <img width="415" src="/github-metrics.svg" alt="Metrics">
+  <img width="400" src="/github-metrics.svg" alt="Metrics">
 </picture>
 
 <img src="https://camo.githubusercontent.com/7167a2406260f00876ac3999addfd1c58344e2e70899970f073e38a89b7a55fd/68747470733a2f2f7777772e662d636f756e7465722e6e65742f6a2f34382f313635353136383930312f">
