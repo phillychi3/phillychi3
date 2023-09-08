@@ -1,9 +1,9 @@
 
-
+<p align="center">
 <h1 align="center">白雲<h1>
 
+<img width="400" align="right" src="https://avatars.githubusercontent.com/u/55632143?v=4">
 
-<img align="right" src="https://avatars.githubusercontent.com/u/55632143?v=4">
 
 <h4>
 <p align="center">
@@ -15,13 +15,13 @@
   </samp>
 </p>
 </h4>
-
+<img  align="left" src="https://lanyard.cnrad.dev/api/762484891945664542">
 
 
 
 
 <picture align="left">
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img width="450" src="/github-metrics.svg" alt="Metrics">
 </picture>
 
 <img src="https://camo.githubusercontent.com/7167a2406260f00876ac3999addfd1c58344e2e70899970f073e38a89b7a55fd/68747470733a2f2f7777772e662d636f756e7465722e6e65742f6a2f34382f313635353136383930312f">
@@ -40,3 +40,4 @@
     src="https://raw.githubusercontent.com/phillychi3/phillychi3/output/github-contribution-grid-snake.svg"
   />
 </picture>
+</p>
