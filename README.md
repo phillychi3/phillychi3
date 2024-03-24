@@ -24,8 +24,7 @@
   <img width="400" src="/github-metrics.svg" alt="Metrics">
 </picture>
 
-<img src="https://camo.githubusercontent.com/7167a2406260f00876ac3999addfd1c58344e2e70899970f073e38a89b7a55fd/68747470733a2f2f7777772e662d636f756e7465722e6e65742f6a2f34382f313635353136383930312f">
-
+<img src="https://count.getloli.com/get/@phillychi3?theme=rule34">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
