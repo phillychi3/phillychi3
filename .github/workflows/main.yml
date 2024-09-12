@@ -2,7 +2,7 @@
 name: Metrics
 on:
   # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 0 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -47,6 +47,9 @@ jobs:
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_types: followers, following
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: B
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
