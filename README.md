@@ -1,26 +1,16 @@
 
-<p align="center">
-<h1 align="center">哈摟我是白雲~<h1>
-
-<img width="400" align="right" src="https://avatars.githubusercontent.com/u/55632143?v=4">
-
-
 <h4>
-<p align="center">
+<p>
   <samp>
-    <a href="https://twitter.com/philly030">twitter</a> +
-    <a href="https://www.youtube.com/channel/UCP0PKFujYwj6jKG5UYYx8Bw">youutbe</a> +
-    <a href="https://www.instagram.com/white_cloud.fbk">instagram</a> +
+    <a href="https://twitter.com/philly030">twitter</a> -
+    <a href="https://www.youtube.com/channel/UCP0PKFujYwj6jKG5UYYx8Bw">youtube</a> -
+    <a href="https://www.instagram.com/white_cloud.fbk">instagram</a> -
     <a href="https://t.me/phillychi3">telegram</a>
   </samp>
 </p>
 </h4>
-<img  width="400" align="left" src="https://lanyard.cnrad.dev/api/762484891945664542">
 
-
-
-
-<picture align="left">
+<picture>
   <img width="400" src="/github-metrics.svg" alt="Metrics">
 </picture>
 
